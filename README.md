@@ -1,0 +1,2 @@
+# bookmarks.vim
+Enhanced bookmarks
